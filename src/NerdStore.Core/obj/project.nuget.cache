@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvaImFOsntySkqv7GshVxfzw6Dds9OW8BD2hcAFZ+kY0FweYzBWEMAE7dxUK+iTvHoZh/+iMJqQyY7GwfUGxCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edson\\source\\repos\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edson\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
